@@ -25,5 +25,5 @@ document.addEventListener("DOMContentLoaded", function () {
     // Show surprise pop-up after 3 seconds (adjust as needed)
     setTimeout(function() {
         surprisePopUp.style.display = "block"; // Show the surprise pop-up
-    }, 30000); // 18000ms = 3 seconds
+    }, 42000); // 18000ms = 3 seconds
 });
